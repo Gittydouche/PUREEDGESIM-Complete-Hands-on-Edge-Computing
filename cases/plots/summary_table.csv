@@ -1,0 +1,16 @@
+Experiment,Orchestration architecture,Total tasks execution delay (s),Tasks successfully executed,Energy consumption of computing nodes (Wh)
+Baseline_Example1,ALL,4322.426,17033.333,73.478
+Baseline_Example1,CLOUD_ONLY,3591.667,2370.0,93.723
+Baseline_Example1,EDGE_AND_CLOUD,3591.667,14289.5,83.555
+Baseline_Example1,EDGE_ONLY,3591.667,11241.833,79.875
+Baseline_Example1,MIST_AND_CLOUD,4423.429,11729.167,77.893
+Baseline_Example1,MIST_AND_EDGE,4283.3,16984.667,71.972
+Baseline_Example1,MIST_ONLY,3196.573,10603.0,59.334
+Baseline_Example8,ALL,10766.556,17051.5,123.344
+Controlled_Arch_Scaling,ALL,4322.426,17033.333,73.478
+Controlled_Arch_Scaling,CLOUD_ONLY,3591.667,2370.0,93.723
+Controlled_Arch_Scaling,EDGE_AND_CLOUD,3591.667,14289.5,83.555
+Controlled_Arch_Scaling,EDGE_ONLY,3591.667,11241.833,79.875
+Controlled_Arch_Scaling,MIST_AND_CLOUD,4423.429,11729.167,77.893
+Controlled_Arch_Scaling,MIST_AND_EDGE,4283.3,16984.667,71.972
+Controlled_Arch_Scaling,MIST_ONLY,3196.573,10603.0,59.334
